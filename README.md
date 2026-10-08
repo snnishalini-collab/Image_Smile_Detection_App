@@ -50,7 +50,7 @@ Upload an image using the file uploader
 View the results:
 
 Uploaded image preview
-"C:\Users\ELCOT\OneDrive\image_projt\image_projt\image.jpeg"
+C:\Users\ELCOT\OneDrive\image_projt\image_projt\image.jpeg
 
 Smile score slider (0-100%)
 
